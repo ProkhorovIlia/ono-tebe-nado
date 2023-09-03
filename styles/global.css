@@ -6,8 +6,11 @@
 
 body {
   min-width: 1100px;
-  margin: 0;
+  max-width: 1440px;
   font-family: Raleway, sans-serif;
+  /*width: max-content;*/
+  margin: 0 auto;
+  
 }
 
 h1,
